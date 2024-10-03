@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px"> I'm Om</h1>
 <h3 align="center">A passionate developer from India who Always try to TRY :)</h3>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=omp28)" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omp28" alt="" /> </p>
 
 - 🌐 New to Mobile dev
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://reactnative.dev/" target="_blank">
+ <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30px" style="margin-right:2px;" />
   </a>
   <a href="https://nextjs.org/" target="_blank">
@@ -51,7 +51,26 @@
   </a> 
   <a href="https://cloud.google.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30px" style="margin-right:2px;" />
-  </a> 
+  </a>
+  <!-- Additional Relevant Technologies -->
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30px" style="margin-right:2px;" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30px" style="margin-right:2px;" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30px" style="margin-right:2px;" />
+  </a>
+  <a href="https://axios-http.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/axios/axios-icon.svg" alt="axios" width="30px" style="margin-right:2px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30px" style="margin-right:2px;" />
+  </a>
+  <a href="https://zustand.pmnd.rs/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/25181517/192149984-3f58e05a-2e1e-4a68-911f-47c1374b6b29.png" alt="zustand" title="Zustand" width="30px" style="margin-right:2px;" />
+  </a>
 </p>
 
 ---
