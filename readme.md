@@ -68,9 +68,6 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30px" style="margin-right:2px;" />
   </a>
-  <a href="https://zustand.pmnd.rs/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/192149984-3f58e05a-2e1e-4a68-911f-47c1374b6b29.png" alt="zustand" title="Zustand" width="30px" style="margin-right:2px;" />
-  </a>
 </p>
 
 ---
