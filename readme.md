@@ -15,6 +15,15 @@
 </table>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   9 hrs 30 mins   ███████████████████▓░░░░░   78.64 %
+Bash         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Text         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
