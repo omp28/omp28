@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omp28" alt="" /> </p>
 
-- 🌐 New to Mobile dev
-
 - 📫 How to reach me **om28patel2004@gmail.com**
 
 <table>
@@ -13,6 +11,8 @@
     <td><img src="https://github-readme-streak-stats.herokuapp.com?user=omp28&theme=radical&hide_border=true" alt="omp28" /></td>
   </tr>
 </table>
+
+- Last 1 Week wakaTime
 
 <!--START_SECTION:waka-->
 
